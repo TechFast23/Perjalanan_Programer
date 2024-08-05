@@ -2,6 +2,6 @@
 -belajar css
 -belajar flexbox
 -belajar grid
--belajar git
 -belajar js
 -memilih jalan progamin
+-belajar php
