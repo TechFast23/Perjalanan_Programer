@@ -4,3 +4,4 @@
 -belajar grid
 -belajar git
 -belajar js
+-memilih jalan progamin
